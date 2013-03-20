@@ -48,6 +48,8 @@ $('.dim').fadeOut(500);
 .vjs-default-skin .vjs-current-time-display, .vjs-default-skin .vjs-remaining-time-display {font: normal 10px Arial; color: #6f7374; text-shadow: none;}
 </style>
 
+<meta name='wmail-verification' content='344d27e62e4cb8ea' />
+<meta name='yandex-verification' content='7d379a6658759f7b' />
 
 
 </head><body>
@@ -89,16 +91,15 @@ a.stills:hover {opacity: 0.80; -moz-opacity: 0.80; -khtml-opacity: 0.80; filter:
 <div class="header noSelect">
 	<img src="/images/bg_main.jpg" width="100%" alt="">
 	<div class="trailer_wrap">
-		<div id="host_russiantrailer_550" style="width: 800px; height: 335px; margin: 0 auto; border: 5px solid #c8ecf7;"><video class="video-js vjs-default-skin" controls preload="auto" width="800" height="335" poster="/video/host_russiantrailer_550.jpg" data-setup="{}"><source src="http://www.hostmovie.ru/video/host_russiantrailer_550.mp4" type='video/mp4'><source src="http://www.hostmovie.ru/video/host_russiantrailer_550.ogv" type='video/ogg'></video></div>
+		<div id="host_russiantrailer_550" style="width: 800px; height: 335px; margin: 0 auto; border: 5px solid #c8ecf7;"><video class="video-js vjs-default-skin" controls preload="auto" width="800" height="335" poster="/video/host_russiantrailer_550.jpg" data-setup="{}"><source src="http://www.hostmovie.ru/video/host_russiantrailer_550.mp4" type='video/mp4'><source src="http://www.hostmovie.ru/video/host_russiantrailer_550.webm" type='video/webm'></video></div>
 	</div>
 </div>
 
 
 <div class="about">
 	<div class="story">
-		<p>Земля — в опасности! Наше место скоро займут Души — лишенные плотской оболочки пришельцы, вытесняющие из человеческих тел разум и замещающие его разумом собственным. Большая часть человечества уже погибла. Немногие выжившие скрываются в жалкой попытке отсрочить неизбежное…</p>
-		<p>Теперь Душа пытается захватить тело юной Мелани. Однако происходит неожиданное: Мелани и ее Душа (Ванда) вынуждены сосуществовать в одном теле.</p>
-		<p>Гостье надлежало выследить и выдать землян-повстанцев, с которыми связана Мелани, но она помогает своей носительнице.</p>
+		<p>Земля в опасности! Наше место скоро займут Души — лишенные плотской оболочки пришельцы, вытесняющие из человеческих тел разум и замещающие его своим. Большая часть человечества уже погибла, а немногие выжившие — скрываются, тщетно пытаясь отсрочить неизбежное.</p>
+		<p>Одна из Душ по имени Ванда пытается захватить тело юной Мелани. Однако происходит неожиданное: Мелани и Ванда вынуждены сосуществовать в одном теле. Гостье из космоса надлежало выследить и выдать землян-повстанцев, с которыми связана Мелани, но вместо этого она начинает помогать своей носительнице.</p>
 	</div>
 	<div class="cast">
 		<p><b>Режиссер:</b> Эндрю Никкол</p>
